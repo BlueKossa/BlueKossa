@@ -4,7 +4,7 @@
 
 - 🦀 Rust
 - 😭🔫 Tauri
-![webdev](https://user-images.githubusercontent.com/106735982/185398733-8ee09879-0a36-4201-b29b-9552e7968e00.png)
+- ![webdev](https://user-images.githubusercontent.com/106735982/185398733-8ee09879-0a36-4201-b29b-9552e7968e00.png)
 
 ## Hobbies
 
