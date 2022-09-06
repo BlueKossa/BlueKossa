@@ -11,8 +11,8 @@ Believe it or not, I actually enjoy programming from time to time. Other than th
 
 ## Stats
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=bluekossa&show_icons=true&theme=gruvbox&count_private=true&compact=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluekossa&layout=compact&theme=gruvbox">
+<img width="500px" src="https://github-readme-stats.vercel.app/api?username=bluekossa&show_icons=true&theme=gruvbox&count_private=true&compact=true">
+<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluekossa&layout=compact&theme=gruvbox">
 </div>
 
 ## Socials
