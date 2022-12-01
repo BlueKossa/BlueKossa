@@ -3,7 +3,11 @@
 ## I am currently learning
 
 - 🦀 Rust
-- 😭🔫 Tauri
+
+## I want to learn
+
+- 👴 C
+- 🎨 OpenGL
 
 ## Hobbies
 
