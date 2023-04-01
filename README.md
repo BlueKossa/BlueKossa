@@ -1,30 +1,30 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello!&fontSize=90&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
+# Hi there!
 
-## I am currently learning
 
-- 🦀 Rust
+## Contact me
 
-## I want to learn
-
-- 👴 C
-- 🎨 OpenGL
-
-## Hobbies
-
-Believe it or not, I actually enjoy programming from time to time. Other than that I have an interest for technical minecraft.
-
-## Stats
 <div>
-<img width="500px" src="https://github-readme-stats.vercel.app/api?username=bluekossa&show_icons=true&theme=gruvbox&count_private=true&compact=true">
-<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluekossa&layout=compact&theme=gruvbox">
+  
+<a target="_blank" href="https://twitter.com/intent/follow?screen_name=bigbluecore">![](https://img.shields.io/badge/Twitter-BigBlueCore-blue?style=for-the-badge)</a>
+![](https://img.shields.io/badge/Discord-BlueCore%234242-7289da?style=for-the-badge&logo=discord)
+  
 </div>
 
-## Socials
+## Languages
+<img width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluekossa&layout=compact&theme=gruvbox" />
+<div>
+  
+![](https://img.shields.io/badge/Lang-Rust-dea584?style=for-the-badge&logo=rust)
+![](https://img.shields.io/badge/Lang-JS-f1e05a?style=for-the-badge&logo=javascript)
+![](https://img.shields.io/badge/Lang-Python-3572A5?style=for-the-badge&logo=python)
+![](https://img.shields.io/badge/Lang-Lua-000080?style=for-the-badge&logo=lua)
+  
+</div>
 
-[<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Discord.svg" alt="discord" title="BlueCore#4242">](https://discord.com/)
-[<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Youtube.svg" alt="discord" title="BlueCore">](https://www.youtube.com/channel/UC4hVDJncycIFA9zfmozobAw)
-[<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg" alt="discord" title="BigBlueCore">](https://twitter.com/BigBlueCore)
+## Editors
+<div>
 
-## I hate webdev
-
-![webdev](https://user-images.githubusercontent.com/106735982/187077842-ee4bc7ab-120a-4b38-acd9-ca7fbca43acd.png)
+![](https://img.shields.io/badge/Editor-neovim-199f4b?style=for-the-badge&logo=neovim)
+![](https://img.shields.io/badge/Editor-vsc-blue?style=for-the-badge&logo=visual%20studio%20code)
+  
+</div>
