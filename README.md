@@ -3,7 +3,7 @@
 
 ## Contact me
 <a target="_blank" href="https://twitter.com/intent/follow?screen_name=bigbluecore">![](https://img.shields.io/badge/Twitter-BigBlueCore-blue?style=for-the-badge)</a>
-![](https://img.shields.io/badge/Discord-BlueCore%234242-7289da?style=for-the-badge&logo=discord)
+![](https://img.shields.io/badge/Discord-bluekossa-7289da?style=for-the-badge&logo=discord)
 
 ## Experiences
 
